@@ -2,7 +2,8 @@
 
 I wanted to understand how lenders decide who gets approved for a loan, so I built a credit risk model on real Lending Club data and turned it into a dashboard where you can adjust the approval cutoff and see what happens.
 
-![Dashboard](output/dashboard.png)
+<img width="1447" height="796" alt="image" src="https://github.com/user-attachments/assets/e217bac7-0fe8-4368-bf41-121f93ad61d2" />
+
 
 ## The Question
 If you're a lender, how strict should you be? Approve too many people and defaults go up. Approve too few and you lose business. I wanted to find where that balance is and put real numbers on it.
